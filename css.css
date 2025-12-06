@@ -1,0 +1,260 @@
+
+.pai {
+flex-wrap: wrap;
+align-content: center;
+background-color: rgb(62, 84, 90);
+height: 100vh;
+width: 80%;
+display: flex;
+margin: 0 auto;
+flex-direction: column;
+justify-content: space-around;
+}
+
+.banner {
+	border-radius: 20px;
+	height: 20vh;
+	width: 90%;
+	background-color: red;
+	margin: 0 auto;
+}
+
+.bt {font-size: 20px;
+     justify-content: space-between;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	height: 3%;
+	width: 80%;
+	margin: 0 auto;
+     text-align: center;}
+
+.b1{ border-radius: 5px;
+	width:20%;
+     height: 100%;
+     background-color:black; }
+
+.b2{ border-radius: 5px;
+	width:20%;
+     height: 100%;
+     background-color:black;}
+
+.b3{ border-radius: 5px;
+	width:20%;
+     height: 100%;
+     background-color:black;}
+
+.b4{ border-radius: 5px;
+	width:20%;
+     height: 100%;
+     background-color:black;}
+
+.info {font-size: 30px;
+     text-align: center;
+     background-color: rgb(174,224,244);
+	border-radius: 20px;
+     height: 70vh;
+     width: 90%; 
+     margin: 0 auto;
+}
+
+.fts { font-size: 90px;
+     border-radius: 20px;
+     height: 25vh;
+     width: 90%;
+     margin: 0 auto;
+     flex-wrap: wrap;
+     align-content: center;
+     display: flex;
+     flex-direction: row;
+     align-content: space-around;
+background-color: white;}
+
+}
+.oi{ margin: 0 auto;
+     height:20vh;
+     width:40%;
+ }
+
+.oe{ margin: 0 auto;
+     height:20vh;
+     width:40%;}
+
+.oa{ margin: 0 auto;
+     height:20vh;
+     width:40%;}
+
+
+
+
+/* pag 2 */ 
+
+.pai2 {font-family: "Henny Penny";
+flex-wrap: wrap;
+background-color: rgb(32, 52, 75);
+height: 100vh;
+width: 60%;
+display: flex;
+margin: 0 auto;
+flex-direction: column;
+}
+
+.banner2 {flex-wrap: wrap;
+	display: flex;
+	flex-direction: row;
+background-color: rgb(174,224,244);
+height: 30vh;
+width: 100%;
+}
+
+.pai3 {
+flex-wrap: wrap;
+height: 70vh;
+width: 100%;
+display: flex;
+margin: 0 auto;
+flex-direction: row;
+align-content: flex-end;
+text-align: center;
+font-family: "Henny Penny";
+justify-content: space-around;
+}
+
+h1{font-size: 70px}
+.fil{font-size: 30px}
+
+
+.filtro {
+          height:100%;
+          width:20%;
+          background-color: rgb(62, 84, 90); }
+
+.produtos { 
+flex-wrap: wrap;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+height:100%;
+width:80%; }
+
+.c1 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c2 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c3 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c4 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c5 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c6 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c7 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c8 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c9 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c10 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c11 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+     .c12 { height:30%;
+     width: 22%;
+     background-color: white; 
+     border-radius: 10px;}
+
+/* pag 3 */
+
+.pai4 {
+flex-wrap: wrap;
+height: 100vh;
+width: 100%;
+display: flex;
+margin: 0 auto;
+flex-direction: column;
+background-color: rgb(62, 84, 90);
+justify-content: space-around;
+}
+
+.rodape { height:5vh;
+          width: 100%; 
+          background-color: rgb(32, 63, 75);}
+
+.carrinho { margin: 0 auto; 
+	      border-radius: 15px;
+	      height:20%;
+           width:80%;  
+           flex-wrap: wrap;
+           display: flex;
+           flex-direction: row;
+           background-color:rgb(32, 63, 75);
+           align-content: center;}
+
+
+.cx1 { height: 90%;
+       width: 10%;
+       }
+           
+
+ .form {
+     border: 20px;
+     height: 50vh;
+       background-color: rgb(62, 84, 90);
+        }
+
+.rodape2 { height:5vh;
+          width: 100%; 
+          background-color: rgb(32, 63, 75);}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
