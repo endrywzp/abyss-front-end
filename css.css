@@ -13,7 +13,7 @@ justify-content: space-around;
 
 .banner {
 	border-radius: 20px;
-	height: 20vh;
+	height: 15vh;
 	width: 90%;
 	background-color: red;
 	margin: 0 auto;
@@ -53,7 +53,7 @@ justify-content: space-around;
      text-align: center;
      background-color: rgb(174,224,244);
 	border-radius: 20px;
-     height: 70vh;
+     height: 60vh;
      width: 90%; 
      margin: 0 auto;
 }
@@ -210,7 +210,7 @@ background-color: rgb(62, 84, 90);
 justify-content: space-around;
 }
 
-.rodape { height:5vh;
+.rodape { height:20px;
           width: 100%; 
           background-color: rgb(32, 63, 75);}
 
